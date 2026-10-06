@@ -1,30 +1,30 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Frank%20Tafana&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Desktop%20Application%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=210&section=header&text=TAFANA01&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20%7C%20JavaFX%20%7C%20Desktop%20Application%20Developer&descAlignY=61&descSize=18" width="100%"/>
 
-  <br>
+<br>
 
-  <a href="https://github.com/USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/TAFANA01">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="https://github.com/TAFANA01?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <br><br>
+<br><br>
 
-  <h1>👋 Hello, I'm Frank</h1>
+<h1>👋 Hello, I'm TAFANA01</h1>
 
-  <p>
-    <strong>Java Desktop Application Developer</strong>
-  </p>
+<p>
+<strong>Java Desktop Application Developer</strong>
+</p>
 
-  <p>
-    I build modern, reliable and user-friendly desktop applications
-    <br>
-    with a strong focus on clean architecture, performance and UX.
-  </p>
+<p>
+I build modern desktop applications with Java and JavaFX,
+<br>
+with a strong interest in Chess Software, Productivity Tools and Data-Driven Applications.
+</p>
 
 </div>
 
@@ -32,21 +32,19 @@
 
 ## 🚀 About Me
 
-I'm a developer focused on building **desktop applications with Java and JavaFX**.
+I'm a developer focused on building **modern desktop applications** using Java and JavaFX.
 
-I enjoy taking an idea from concept to a complete application — from
-designing the interface and implementing the logic to managing data,
-testing, packaging and deployment.
+I enjoy transforming ideas into complete applications — from interface design and application logic to data management, testing, packaging and deployment.
 
-My main interests include:
+My main areas of interest are:
 
-- 🖥️ Desktop Application Development
-- ☕ Java & JavaFX
-- 🎨 Modern User Interfaces
-- 🗄️ Data Persistence & Database Integration
-- 📦 Application Packaging & Deployment
-- ♟️ Chess Software & Analysis Tools
-- 📈 Productivity & Personal Progress Applications
+* ☕ Java & JavaFX
+* 🖥️ Desktop Application Development
+* 🎨 Modern UI/UX
+* 🗄️ Data Persistence & Database Integration
+* 📦 Application Packaging & Deployment
+* ♟️ Chess Software & Analysis
+* 📈 Productivity & Progress Tracking
 
 ---
 
@@ -58,11 +56,69 @@ My main interests include:
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,js" />
 
-### Frameworks & Tools
+### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=java,maven,git,github,sqlite,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=maven,git,github,sqlite,idea,vscode" />
 
 </div>
+
+---
+
+## ⭐ Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<h3 align="center">♟️ Chess Progress</h3>
+
+<p align="center">
+A chess progress tracking application designed to help players monitor their development, analyze performance and identify recurring weaknesses.
+</p>
+
+<p align="center">
+
+<b>Java • JavaFX • Maven</b>
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">📊 DailyFlow</h3>
+
+<p align="center">
+A productivity and personal progress application focused on tasks, goals, habits and long-term development.
+</p>
+
+<p align="center">
+
+<b>Java • JavaFX • SQLite</b>
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">♟️ Chess Analyse</h3>
+
+<p align="center">
+A chess analysis application focused on studying games, positions and player performance.
+</p>
+
+<p align="center">
+
+<b>Java • JavaFX • Chess</b>
+
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -75,15 +131,16 @@ My main interests include:
 
 ### 🖥️ Desktop Applications
 
-I develop complete desktop applications with:
+I build complete desktop applications with:
 
-- Java
-- JavaFX
-- Maven
-- SQLite
-- Clean architecture
-- Persistent data
-- Modern UI/UX
+* Java
+* JavaFX
+* Maven
+* SQLite
+* Data persistence
+* Modern UI/UX
+* Clean project structure
+* Application packaging
 
 </td>
 
@@ -91,16 +148,16 @@ I develop complete desktop applications with:
 
 ### ♟️ Chess Applications
 
-I'm particularly interested in combining programming with chess.
+I'm particularly interested in combining software development with chess.
 
-Projects include:
+My work explores:
 
-- Chess analysis
-- Game tracking
-- PGN processing
-- Player statistics
-- Training tools
-- Performance tracking
+* Chess game analysis
+* Player progress tracking
+* Performance statistics
+* Game databases
+* Training tools
+* PGN-based workflows
 
 </td>
 
@@ -109,49 +166,23 @@ Projects include:
 
 ---
 
-## ⭐ Featured Projects
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/USERNAME/PROJECT-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT-1&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=TAFANA01&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
 
-<a href="https://github.com/USERNAME/PROJECT-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT-2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/USERNAME/PROJECT-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=PROJECT-3&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAFANA01&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TAFANA01&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
@@ -160,10 +191,70 @@ Projects include:
 ## 🎯 Current Focus
 
 ```text
-Java / JavaFX
-     │
-     ├── 🖥️ Desktop Applications
-     ├── 🎨 Modern UI/UX
-     ├── 🗄️ Data Management
-     ├── 📦 Packaging & Deployment
-     └── ♟️ Chess Software
+                    JAVA
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+       JavaFX                 Application
+          │                    Development
+          │                       │
+    ┌─────┴─────┐          ┌──────┴──────┐
+    │           │          │             │
+  Chess     Productivity  Data        Deployment
+ Software      Tools    Management      & UX
+```
+
+I'm currently focused on building applications that are not only functional,
+but also **polished, reliable and ready for real users**.
+
+---
+
+## 🧠 Development Philosophy
+
+<div align="center">
+
+> **Build → Improve → Test → Ship → Learn**
+
+</div>
+
+I believe good software is more than just code.
+
+A good application should solve a real problem, provide a clear user experience,
+manage data reliably and be packaged in a way that real users can easily install and use.
+
+---
+
+## 🤝 Open To
+
+I'm interested in working on:
+
+* 💼 Freelance Java development
+* 🖥️ Desktop application development
+* 🐛 Java / JavaFX bug fixing
+* ✨ Feature development
+* 🎨 UI/UX improvements
+* 🗄️ Data management
+* 📦 Application packaging
+* ♟️ Chess software projects
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/TAFANA01">
+<img src="https://img.shields.io/badge/GitHub-TAFANA01-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=TAFANA01&style=flat-square&color=2563eb"/>
+
+<br><br>
+
+<strong>Thanks for visiting my profile! 🚀</strong>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
